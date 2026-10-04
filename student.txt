@@ -1,0 +1,3 @@
+Hello, this is my Python assignment.
+I am learning Python and Bash.
+File handling is an important Python concept.
